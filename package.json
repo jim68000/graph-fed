@@ -1,0 +1,19 @@
+{
+  "name": "graph-fed",
+  "version": "1.0.0",
+  "description": "graph fed test",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jim68000/graph-fed.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jim68000/graph-fed/issues"
+  },
+  "homepage": "https://github.com/jim68000/graph-fed#readme"
+}
